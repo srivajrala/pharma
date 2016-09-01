@@ -1,0 +1,2 @@
+module PharmasHelper
+end
